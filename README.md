@@ -1,2 +1,2 @@
 # Stock_Predict_UBER
-This GitHub repository hosts an advanced financial analysis project centered around predicting Uber's stock prices using Long Short-Term Memory (LSTM) neural networks. Leveraging historical stock data, this project demonstrates the application of deep learning techniques in the realm of finance. 
+This GitHub repository hosts an advanced financial analysis project centered around predicting Uber's stock prices using Long Short-Term Memory (LSTM) neural networks. Leveraging historical stock data, this project demonstrates the application of deep learning techniques in the realm of finance.  LSTM's ability to capture temporal dependencies makes it a potent tool for predicting stock trends.
